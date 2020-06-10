@@ -9,7 +9,7 @@ A lot of external services are available on the Docker Store and can be used in 
 This factor shows an orientation toward continuous deployment, where development can go from dev to production in a very short timeframe, thus avoiding the big bang effect at each release.
 
 
-## What does that mean for our application ?
+## What does that mean for our application 88
 
 The docker-compose file we built so far can be ran on the local machine or on any Docker Host. So Docker really shines at this level as it handles everything for us.
 
